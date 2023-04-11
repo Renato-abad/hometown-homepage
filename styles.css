@@ -1,0 +1,83 @@
+/**
+Palette: logo-sampa 
+/* CSS HEX */
+--citrine: #F6DF1Aff;
+--emerald: #43B668ff;
+--shamrock-green: #1D9B60ff;
+--lavender-web: #D1D7E7ff;
+--jade: #28B072ff;
+--french-gray: #A9B1BEff;
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #335c67;
+    text-shadow: 0px 0px 1px black;
+ 
+
+}
+
+
+#hero {   
+  
+  background-image: url("https://image.freepik.com/free-vector/sao-paulo-skyline_23-2148691922.jpg");
+  
+    background-size: 50%
+      padding: 10px 0 10px 0;
+  height: 280px;
+      
+      }
+   
+    
+.act {display: flex;
+    justify-content: center;
+background: linear-gradient(#F4DF1Cff, #29AD70ff);
+  padding: 10px 0 40px 0;
+}  
+    
+   
+h1 {
+    font-size: 80px;
+    text-shadow: 0px 0px 2px black;
+    /*           ➡️   ⬇️  blur color */
+}
+
+img {
+    width: 200px;
+  height: 200px;
+  border: 2px solid #C9D0E0ff;
+  border-radius: 15px 50px;
+  
+}
+
+#guide{width:500px}
+
+.card {
+  
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: linear-gradient(#fff3b0, #ffd500 );
+    color: #335c67;
+    border-bottom: 6px solid #88d498;
+  padding: 10px 0 0px 0;
+        
+    
+}
+.avatar {
+    width: 200px;
+    border-radius: 4px;
+  border: px solid #C9D0E0ff;
+  border-radius: 50px 15px;
+    
+    
+}
+.bottom {
+  
+  margin: 20px 5px 15px 20px
+}
